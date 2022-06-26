@@ -1,4 +1,11 @@
-### Hi there 👋
+## Welcome to my Profile
+My name is Stefan but I like to be called Alex. My pronouns are They/Them.
+I hope to post some better scripts hear in the future, as I am always working on stuff to streamline process in my home lab. 
+Im hoping to add to the documentation of some open sorce project. 
+
+Thanks for reading this had have a nice future. 
+
+
 
 <!--
 **AlexJackzip/AlexJackzip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
