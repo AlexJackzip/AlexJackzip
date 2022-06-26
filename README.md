@@ -6,7 +6,7 @@ Im hoping to add to the documentation of some open sorce project.
 
 To contact me send a email to: stefan.alexxjackson@gmail.com
 
-Thanks for reading this had have a nice future. 
+Thanks for reading this and have a nice future. 
 
 <!--
 **AlexJackzip/AlexJackzip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
